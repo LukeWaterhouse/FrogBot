@@ -1,4 +1,4 @@
-@FrogBot_HostAddress = http://localhost:5045
+@FrogBot_HostAddress = http://localhost:5185
 
 GET {{FrogBot_HostAddress}}/weatherforecast/
 Accept: application/json
