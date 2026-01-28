@@ -1,8 +1,8 @@
 using System.Text.Json;
-using FrogBot.Infrastructure.Interfaces;
-using FrogBot.Infrastructure.Models.Responses;
+using FrogBot.Infrastructure.YahooFinance.Interfaces;
+using FrogBot.Infrastructure.YahooFinance.Models.Responses;
 
-namespace FrogBot.Infrastructure.Clients;
+namespace FrogBot.Infrastructure.YahooFinance.Clients;
 
 public class YahooFinanceClient(HttpClient httpClient) : IYahooFinanceClient
 {

@@ -1,4 +1,4 @@
-namespace FrogBot.Infrastructure.Models.Responses;
+namespace FrogBot.Infrastructure.YahooFinance.Models.Responses;
 
 public record YahooFinanceChartResponse(
     ChartDataResponse? Chart

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FrogBot.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+652fe55d41ad75efa8dbef7450e29565a46988b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de3283a38973a607c5b73a418126ad96ce4bc89c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FrogBot.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FrogBot.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

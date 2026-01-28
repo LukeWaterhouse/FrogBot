@@ -1,6 +1,7 @@
 namespace FrogBot.Domain.Interfaces.External;
 
-public class IChartService
+public interface IChartService
 {
+    
     
 }
